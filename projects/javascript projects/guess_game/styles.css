@@ -1,0 +1,12 @@
+
+.main{
+    margin: 100px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+}
+table{
+    margin: 0 auto;
+    border: 1px solid rgb(83, 82, 82);
+    padding: 20px;
+}
